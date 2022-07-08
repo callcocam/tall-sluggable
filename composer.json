@@ -1,0 +1,25 @@
+{
+    "name": "callcocam/tall-sluggable",
+    "type": "package",
+    "description": "The packages auto slug laravel model.",
+    "keywords": ["framework", "laravel", "livewire", "alpinejs", "tailwindcss"],
+    "license": "MIT",
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tall\\Sluggable\\": "tall-sluggable/src"
+        }
+    },
+    
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tall\\Sluggable\\SluggableServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
