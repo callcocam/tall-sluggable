@@ -5,7 +5,7 @@
 #CONFIGURAÇÕES PARA A MODEL
 ```
 
-use Tall\Form\Sluggable\HasSlug;
+use Tall\Sluggable\HasSlug;
 
 adicionar a trait
 use  HasSlug;
