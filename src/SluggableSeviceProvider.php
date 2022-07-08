@@ -4,10 +4,9 @@
 * User: callcocam@gmail.com, contato@sigasmart.com.br
 * https://www.sigasmart.com.br
 */
-namespace Tall\Schema;
+namespace Tall\Sluggable;
 
 use Illuminate\Support\ServiceProvider;
-use Tall\Schema\DBAL\MySQLSchema  as DBALMySQLSchema;
 
 class SluggableSeviceProvider extends ServiceProvider
 {
