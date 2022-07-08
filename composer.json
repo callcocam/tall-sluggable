@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Tall\\Sluggable\\": "tall-sluggable/src"
+            "Tall\\Sluggable\\": "src"
         }
     },
     

@@ -5,6 +5,7 @@
 #CONFIGURAÇÕES PARA A MODEL
 ```
 
+use Tall\Sluggable\SlugOptions;
 use Tall\Sluggable\HasSlug;
 
 adicionar a trait
