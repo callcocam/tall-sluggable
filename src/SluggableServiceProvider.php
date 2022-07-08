@@ -8,7 +8,7 @@ namespace Tall\Sluggable;
 
 use Illuminate\Support\ServiceProvider;
 
-class SluggableSeviceProvider extends ServiceProvider
+class SluggableServiceProvider extends ServiceProvider
 {
     /**
      * Register services.
